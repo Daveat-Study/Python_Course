@@ -6,3 +6,10 @@
 
 # Python programming language
 https://www.youtube.com/watch?v=8DvywoWv6fI&t=7s
+
+
+-------------------- Activate Pip Script in Local Environment --------------------
+=> source venv/bin/activate
+
+-------------------- Host Local Api --------------------
+=> pip main:app 
